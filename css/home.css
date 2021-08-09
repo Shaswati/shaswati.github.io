@@ -78,7 +78,7 @@ body
     margin: 10px 0;
 
     letter-spacing: 1px;
-    text-transform: capitalize;
+    text-transform: none;
 
     color: #fff7e8;
 }
